@@ -1,0 +1,116 @@
+
+.prothm{
+	color:blue;
+	
+	
+}
+.imran{
+	color:green;
+	
+}
+.balake{
+	
+	color :#800000;
+	
+	
+}
+tr {
+width: 98.001%;
+display: inline-table;
+table-layout: fixed;
+}
+
+table{
+ height:500px;              // <-- Select the height of the table
+ display: -moz-groupbox;    // Firefox Bad Effect
+}
+tbody{
+  overflow-y: scroll;      
+  height: 500px; 
+  width: 100%;  
+  position: absolute;
+}
+navbar navbar-inverse{
+	height: 100px;
+}
+.right-side{
+	height: 500px;
+		margin-right:20px;
+	width: 100%;	
+}
+.image {
+    position: inherit;
+	margin-left :60px;
+    width: 600px;
+    height: 507px;
+    border: 3px solid #73AD21;
+} 
+
+.image img{height:500px;}
+
+.button{
+	
+	width:500px;
+}
+.footer{
+	font-size: 20px;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #222;
+   color: white;
+   text-align: center;
+}
+.row{
+	height 800px;
+}
+.navbar-brand{
+	margin-left: 100px;
+	float: left;
+    height: 50px;
+    padding: 30px 101px;
+    font-size: 40px;
+    line-height: 20px;
+}
+	
+.navbar-nav{
+margin-right: -30px;
+    position: relative;
+    display: block;
+    padding: 26px 100px;
+    font-size: 33px;
+    float: right;
+}
+.btn{
+	display: inline-block;
+    padding: 10px 21px;
+    margin-bottom: 0;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 12px;
+	width:250px;
+	
+}
+.dropdown-menu>li {
+    display: block;
+    padding: 25px 20px;
+    clear: both;
+    font-weight: 400;
+    line-height: 1.42857143;
+    color: #333;
+    white-space: nowrap;
+	height :50px;
+}
